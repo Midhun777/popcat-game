@@ -1,5 +1,5 @@
 window.onload = function() {
-	var img = document.getElementById("cat1");
+	var img = document.getElementById('cat1');
 	var count = document.getElementById("score");
 	var score = 0;
 	var audio = new Audio("/media/pop.mp3");
