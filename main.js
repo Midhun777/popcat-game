@@ -37,12 +37,12 @@ function change() {
 }
 
 function reset() {
-	img.src = "/media/cat1.png";
+	img.src = "https://i.postimg.cc/bJLLXRg8/20231113-202840.png";
 	audio.play();
 }
 
 function imgreset() {
-	img.src = "/media/cat1.png";
+	img.src = "https://i.postimg.cc/bJLLXRg8/20231113-202840.png";
 }
 
 function increaseScore() {
