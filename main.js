@@ -50,4 +50,4 @@ function increaseScore() {
 	count.innerHTML = score;
 }
 
-setInterval(imgreset, 340);
+//setInterval(imgreset, 340);
