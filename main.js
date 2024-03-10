@@ -1,5 +1,5 @@
 var img = document.getElementById('cat1');
-var audio = new Audio("./media/AUD-20240126-WA0267.mp3");
+var audio = new Audio("./media/pop.mp3");
 var count = document.getElementById("score");
 var score = 0;
 
